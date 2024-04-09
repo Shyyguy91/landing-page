@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    
+}
+
+.header {
+    background-color: black;
+    display: flex;
+    width: 100%;
+
+}
+
+.header-linkgroup {
+    display: flex;
+    margin-left: auto;
+    gap: 8px;
+}
